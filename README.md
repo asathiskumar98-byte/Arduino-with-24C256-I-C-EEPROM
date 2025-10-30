@@ -1,4 +1,5 @@
 💾 Arduino with 24C256 I²C EEPROM
+
 📘 Overview
 
 This project demonstrates how to use an Arduino UNO to read and write data to an AT24C256 EEPROM over the I²C (Inter-Integrated Circuit) bus.
